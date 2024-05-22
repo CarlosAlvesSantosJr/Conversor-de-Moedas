@@ -68,5 +68,5 @@ while stop != "2":
         if stop in ["1","2"]:
             break
         else:
-            print("Valor inválido")
+            print("Valor inválido.")
             
